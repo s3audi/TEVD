@@ -1,2 +1,0 @@
-# TEVD
-Kod denemeleri
